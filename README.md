@@ -1,4 +1,4 @@
 # kanishkajoshi.demo
-this is my first reoository
+this is my first repository
 <br>
 Author - Kanishka joshi
